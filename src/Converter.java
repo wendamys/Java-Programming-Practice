@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-// test commit
+// test commit2
 
 class MyProgram {
     public static void main(String[] args) {
