@@ -1,5 +1,8 @@
 import java.util.Scanner;
 
+// test input -> 12 5 14
+// output -> 14
+
 class MaxChet {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

@@ -1,5 +1,10 @@
 import java.util.Scanner;
 
+// test input -> PYTGON JAVA C++
+// output -> C++
+// output -> JAVA
+// output -> PYTGON
+
 class FirstName {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
