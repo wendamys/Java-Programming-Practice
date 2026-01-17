@@ -2,10 +2,10 @@ import java.util.Scanner;
 
 // test input -> 5
 // output -> 1
-           //1 2
-           //1 2 2
-           //1 2 2 3
-           //1 2 2 3 3
+// output -> 1 2
+// output -> 1 2 2
+// output -> 1 2 2 3
+// output -> 1 2 2 3 3
 
 class Ladder {
     public static void main(String[] args) {
