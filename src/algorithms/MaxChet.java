@@ -3,6 +3,16 @@ import java.util.Scanner;
 // test input -> 12 5 14
 // output -> 14
 
+// test input -> 1 3 5
+// output -> Чётных чисел нет
+
+// test input -> 2 8 4
+// output -> 8
+
+// test input -> 7 10 3
+// output -> 10
+
+
 class MaxChet {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

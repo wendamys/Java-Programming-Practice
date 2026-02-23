@@ -4,6 +4,15 @@ import java.util.Scanner;
 // output -> 2 4 6 8 10
 // output -> 30
 
+// test input -> 5
+// output -> 2 4
+// output -> 6
+
+// test input -> 1
+// output -> (пустая строка)
+// output -> 0
+
+
 class MassiveEven {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

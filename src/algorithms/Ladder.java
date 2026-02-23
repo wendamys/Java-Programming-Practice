@@ -7,6 +7,14 @@ import java.util.Scanner;
 // output -> 1 2 2 3
 // output -> 1 2 2 3 3
 
+// test input -> 3
+// output -> 1
+// output -> 1 2
+// output -> 1 2 2
+
+// test input -> 1
+// output -> 1
+
 class Ladder {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

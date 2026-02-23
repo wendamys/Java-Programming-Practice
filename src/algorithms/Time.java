@@ -3,6 +3,13 @@ import java.util.Scanner;
 // test input -> 44000
 // output -> 12:13:20
 
+// test input -> 3600
+// output -> 01:00:00
+
+// test input -> 90061
+// output -> 01:01:01
+
+
 class Time {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

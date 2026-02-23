@@ -5,6 +5,16 @@ import java.util.Scanner;
 // output -> JAVA
 // output -> PYTGON
 
+// test input -> Apple Cherry Banana
+// output -> Apple
+// output -> Banana
+// output -> Cherry
+
+// test input -> Zebra Ant Bee
+// output -> Ant
+// output -> Bee
+// output -> Zebra
+
 class FirstName {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -17,7 +27,7 @@ class FirstName {
             } else { System.out.println(b + "\n" + c + "\n" + a); } // иначе если б меньше то он на первом, б на втором
         }
         // теперь проверяем б
-        if (b.charAt(0) > a.charAt(0) && b.charAt(0) > a.charAt(0)) { // б будет на 3 месте
+        if (b.charAt(0) > a.charAt(0) && b.charAt(0) > с.charAt(0)) { // б будет на 3 месте
             if (a.charAt(0) > c.charAt(0)) { // если а больше то он на 2 месте
                 System.out.println(c + "\n" + a + "\n" + b);
             } else { System.out.println(a + "\n" + c + "\n" + b); }
